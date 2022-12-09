@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Chevy", 
+    "price": 15000,
+    "year": 2015, 
+    "contact": {
+      "dealer": "Lanster",
+      "number": "111-111-2333"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mustang", 
+    "price": 23000,
+    "year": 2011,
+    "contact": {
+      "dealer": "Jannet",
+      "number": "222-111-2333"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lincoln", 
+    "price": 18000,
+    "year": 2013,
+    "contact": {
+      "dealer": "John",
+      "number": "111-222-2333"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Honda", 
+    "price": 25000,
+    "year": 2017,
+    "contact": {
+      "dealer": "Sammy",
+      "number": "123-555-2333"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kia", 
+    "price": 18000,
+    "year": 2016,
+    "contact": {
+      "dealer": "Sinclair",
+      "number": "222-101-2333"
+    }
+  }
+]
